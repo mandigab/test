@@ -1,0 +1,148 @@
+{
+	"photos": [
+		{
+			"photoName": "Image 1",
+			"photoAuthor": "Gabor",
+	    	"photoDate": "02.10.2019",
+	    	"photoURL": "https://raw.githubusercontent.com/mandigab/test/master/10-8.jpg"
+		},
+		{
+			"photoName": "Image 2",
+	    	"photoAuthor": "Gabor",
+	    	"photoDate": "02.10.2019",
+	    	"photoURL": "https://raw.githubusercontent.com/mandigab/test/master/10-9.jpg"
+		},
+		{
+			"photoName": "Image 3",
+	    	"photoAuthor": "Gabor",
+	    	"photoDate": "02.10.2019",
+	    	"photoURL": "https://raw.githubusercontent.com/mandigab/test/master/10-10.jpg"
+		},
+		{
+			"photoName": "Image 4",
+	    	"photoAuthor": "Gabor",
+	    	"photoDate": "02.10.2019",
+	    	"photoURL": "https://raw.githubusercontent.com/mandigab/test/master/10-11.jpg"
+		},
+		{
+			"photoName": "Image 5",
+	    	"photoAuthor": "Gabor",
+	    	"photoDate": "02.10.2019",
+	    	"photoURL": "https://raw.githubusercontent.com/mandigab/test/master/10-12.jpg"
+		},
+		{
+			"photoName": "Image 6",
+	    	"photoAuthor": "Gabor",
+	    	"photoDate": "02.10.2019",
+	    	"photoURL": "https://raw.githubusercontent.com/mandigab/test/master/10-13.jpg"
+		},
+		{
+			"photoName": "Image 1",
+			"photoAuthor": "Gabor",
+	    	"photoDate": "02.10.2019",
+	    	"photoURL": "https://raw.githubusercontent.com/mandigab/test/master/10-8.jpg"
+		},
+		{
+			"photoName": "Image 2",
+	    	"photoAuthor": "Gabor",
+	    	"photoDate": "02.10.2019",
+	    	"photoURL": "https://raw.githubusercontent.com/mandigab/test/master/10-9.jpg"
+		},
+		{
+			"photoName": "Image 3",
+	    	"photoAuthor": "Gabor",
+	    	"photoDate": "02.10.2019",
+	    	"photoURL": "https://raw.githubusercontent.com/mandigab/test/master/10-10.jpg"
+		},
+		{
+			"photoName": "Image 4",
+	    	"photoAuthor": "Gabor",
+	    	"photoDate": "02.10.2019",
+	    	"photoURL": "https://raw.githubusercontent.com/mandigab/test/master/10-11.jpg"
+		},
+		{
+			"photoName": "Image 5",
+	    	"photoAuthor": "Gabor",
+	    	"photoDate": "02.10.2019",
+	    	"photoURL": "https://raw.githubusercontent.com/mandigab/test/master/10-12.jpg"
+		},
+		{
+			"photoName": "Image 6",
+	    	"photoAuthor": "Gabor",
+	    	"photoDate": "02.10.2019",
+	    	"photoURL": "https://raw.githubusercontent.com/mandigab/test/master/10-13.jpg"
+		},
+		{
+			"photoName": "Image 1",
+			"photoAuthor": "Gabor",
+	    	"photoDate": "02.10.2019",
+	    	"photoURL": "https://raw.githubusercontent.com/mandigab/test/master/10-8.jpg"
+		},
+		{
+			"photoName": "Image 2",
+	    	"photoAuthor": "Gabor",
+	    	"photoDate": "02.10.2019",
+	    	"photoURL": "https://raw.githubusercontent.com/mandigab/test/master/10-9.jpg"
+		},
+		{
+			"photoName": "Image 3",
+	    	"photoAuthor": "Gabor",
+	    	"photoDate": "02.10.2019",
+	    	"photoURL": "https://raw.githubusercontent.com/mandigab/test/master/10-10.jpg"
+		},
+		{
+			"photoName": "Image 4",
+	    	"photoAuthor": "Gabor",
+	    	"photoDate": "02.10.2019",
+	    	"photoURL": "https://raw.githubusercontent.com/mandigab/test/master/10-11.jpg"
+		},
+		{
+			"photoName": "Image 5",
+	    	"photoAuthor": "Gabor",
+	    	"photoDate": "02.10.2019",
+	    	"photoURL": "https://raw.githubusercontent.com/mandigab/test/master/10-12.jpg"
+		},
+		{
+			"photoName": "Image 6",
+	    	"photoAuthor": "Gabor",
+	    	"photoDate": "02.10.2019",
+	    	"photoURL": "https://raw.githubusercontent.com/mandigab/test/master/10-13.jpg"
+		},
+		{
+			"photoName": "Image 1",
+			"photoAuthor": "Gabor",
+	    	"photoDate": "02.10.2019",
+	    	"photoURL": "https://raw.githubusercontent.com/mandigab/test/master/10-8.jpg"
+		},
+		{
+			"photoName": "Image 2",
+	    	"photoAuthor": "Gabor",
+	    	"photoDate": "02.10.2019",
+	    	"photoURL": "https://raw.githubusercontent.com/mandigab/test/master/10-9.jpg"
+		},
+		{
+			"photoName": "Image 3",
+	    	"photoAuthor": "Gabor",
+	    	"photoDate": "02.10.2019",
+	    	"photoURL": "https://raw.githubusercontent.com/mandigab/test/master/10-10.jpg"
+		},
+		{
+			"photoName": "Image 4",
+	    	"photoAuthor": "Gabor",
+	    	"photoDate": "02.10.2019",
+	    	"photoURL": "https://raw.githubusercontent.com/mandigab/test/master/10-11.jpg"
+		},
+		{
+			"photoName": "Image 5",
+	    	"photoAuthor": "Gabor",
+	    	"photoDate": "02.10.2019",
+	    	"photoURL": "https://raw.githubusercontent.com/mandigab/test/master/10-12.jpg"
+		},
+		{
+			"photoName": "Image 6",
+	    	"photoAuthor": "Gabor",
+	    	"photoDate": "02.10.2019",
+	    	"photoURL": "https://raw.githubusercontent.com/mandigab/test/master/10-13.jpg"
+		}
+	]
+}
