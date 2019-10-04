@@ -1,38 +1,40 @@
 {
-	{
-		"photoName": "Image 1"
-    	"photoAuthor": "Gabor"
-    	"photoDate": "02.10.2019"
-    	"photoURL": "http://512pixels.net/downloads/macos-wallpapers/10-8.jpg"
-	},
-	{
-		"photoName": "Image 2"
-    	"photoAuthor": "Gabor"
-    	"photoDate": "02.10.2019"
-    	"photoURL": "http://512pixels.net/downloads/macos-wallpapers/10-9.jpg"
-	},
-	{
-		"photoName": "Image 3"
-    	"photoAuthor": "Gabor"
-    	"photoDate": "02.10.2019"
-    	"photoURL": "http://512pixels.net/downloads/macos-wallpapers/10-10.jpg"
-	},
-	{
-		"photoName": "Image 4"
-    	"photoAuthor": "Gabor"
-    	"photoDate": "02.10.2019"
-    	"photoURL": "http://512pixels.net/downloads/macos-wallpapers/10-11.jpg"
-	},
-	{
-		"photoName": "Image 5"
-    	"photoAuthor": "Gabor"
-    	"photoDate": "02.10.2019"
-    	"photoURL": "http://512pixels.net/downloads/macos-wallpapers/10-12.jpg"
-	},
-	{
-		"photoName": "Image 6"
-    	"photoAuthor": "Gabor"
-    	"photoDate": "02.10.2019"
-    	"photoURL": "http://512pixels.net/downloads/macos-wallpapers/10-13.jpg"
-	}
+	"photos": [
+		{
+			"photoName": "Image 1",
+			"photoAuthor": "Gabor",
+	    	"photoDate": "02.10.2019",
+	    	"photoURL": "http://512pixels.net/downloads/macos-wallpapers/10-8.jpg"
+		},
+		{
+			"photoName": "Image 2",
+	    	"photoAuthor": "Gabor",
+	    	"photoDate": "02.10.2019",
+	    	"photoURL": "http://512pixels.net/downloads/macos-wallpapers/10-9.jpg"
+		},
+		{
+			"photoName": "Image 3",
+	    	"photoAuthor": "Gabor",
+	    	"photoDate": "02.10.2019",
+	    	"photoURL": "http://512pixels.net/downloads/macos-wallpapers/10-10.jpg"
+		},
+		{
+			"photoName": "Image 4",
+	    	"photoAuthor": "Gabor",
+	    	"photoDate": "02.10.2019",
+	    	"photoURL": "http://512pixels.net/downloads/macos-wallpapers/10-11.jpg"
+		},
+		{
+			"photoName": "Image 5",
+	    	"photoAuthor": "Gabor",
+	    	"photoDate": "02.10.2019",
+	    	"photoURL": "http://512pixels.net/downloads/macos-wallpapers/10-12.jpg"
+		},
+		{
+			"photoName": "Image 6",
+	    	"photoAuthor": "Gabor",
+	    	"photoDate": "02.10.2019",
+	    	"photoURL": "http://512pixels.net/downloads/macos-wallpapers/10-13.jpg"
+		}
+	]
 }
