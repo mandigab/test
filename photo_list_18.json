@@ -1,0 +1,112 @@
+{
+	"photos": [
+		{
+			"photoName": "pic_1",
+			"photoAuthor": "Gabor",
+	    	"photoDate": "02.10.2019",
+	    	"photoURL": "https://raw.githubusercontent.com/mandigab/test/master/pic_1.jpg"
+		},
+		{
+			"photoName": "pic_2",
+	    	"photoAuthor": "Gabor",
+	    	"photoDate": "02.10.2019",
+	    	"photoURL": "https://raw.githubusercontent.com/mandigab/test/master/pic_2.jpg"
+		},
+		{
+			"photoName": "pic_3",
+	    	"photoAuthor": "Gabor",
+	    	"photoDate": "02.10.2019",
+	    	"photoURL": "https://raw.githubusercontent.com/mandigab/test/master/pic_3.jpg"
+		},
+		{
+			"photoName": "pic_4",
+	    	"photoAuthor": "Gabor",
+	    	"photoDate": "02.10.2019",
+	    	"photoURL": "https://raw.githubusercontent.com/mandigab/test/master/pic_4.jpg"
+		},
+		{
+			"photoName": "pic_5",
+	    	"photoAuthor": "Gabor",
+	    	"photoDate": "02.10.2019",
+	    	"photoURL": "https://raw.githubusercontent.com/mandigab/test/master/pic_5.jpg"
+		},
+		{
+			"photoName": "pic_6",
+	    	"photoAuthor": "Gabor",
+	    	"photoDate": "02.10.2019",
+	    	"photoURL": "https://raw.githubusercontent.com/mandigab/test/master/pic_6.jpg"
+		},
+		{
+			"photoName": "pic_7",
+			"photoAuthor": "Gabor",
+	    	"photoDate": "02.10.2019",
+	    	"photoURL": "https://raw.githubusercontent.com/mandigab/test/master/pic_1.jpg"
+		},
+		{
+			"photoName": "pic_8",
+	    	"photoAuthor": "Gabor",
+	    	"photoDate": "02.10.2019",
+	    	"photoURL": "https://raw.githubusercontent.com/mandigab/test/master/pic_2.jpg"
+		},
+		{
+			"photoName": "pic_9",
+	    	"photoAuthor": "Gabor",
+	    	"photoDate": "02.10.2019",
+	    	"photoURL": "https://raw.githubusercontent.com/mandigab/test/master/pic_3.jpg"
+		},
+		{
+			"photoName": "pic_10",
+	    	"photoAuthor": "Gabor",
+	    	"photoDate": "02.10.2019",
+	    	"photoURL": "https://raw.githubusercontent.com/mandigab/test/master/pic_4.jpg"
+		},
+		{
+			"photoName": "pic_11",
+	    	"photoAuthor": "Gabor",
+	    	"photoDate": "02.10.2019",
+	    	"photoURL": "https://raw.githubusercontent.com/mandigab/test/master/pic_5.jpg"
+		},
+		{
+			"photoName": "pic_12",
+	    	"photoAuthor": "Gabor",
+	    	"photoDate": "02.10.2019",
+	    	"photoURL": "https://raw.githubusercontent.com/mandigab/test/master/pic_6.jpg"
+		},
+		{
+			"photoName": "pic_13",
+			"photoAuthor": "Gabor",
+	    	"photoDate": "02.10.2019",
+	    	"photoURL": "https://raw.githubusercontent.com/mandigab/test/master/pic_1.jpg"
+		},
+		{
+			"photoName": "pic_14",
+	    	"photoAuthor": "Gabor",
+	    	"photoDate": "02.10.2019",
+	    	"photoURL": "https://raw.githubusercontent.com/mandigab/test/master/pic_2.jpg"
+		},
+		{
+			"photoName": "pic_15",
+	    	"photoAuthor": "Gabor",
+	    	"photoDate": "02.10.2019",
+	    	"photoURL": "https://raw.githubusercontent.com/mandigab/test/master/pic_3.jpg"
+		},
+		{
+			"photoName": "pic_16",
+	    	"photoAuthor": "Gabor",
+	    	"photoDate": "02.10.2019",
+	    	"photoURL": "https://raw.githubusercontent.com/mandigab/test/master/pic_4.jpg"
+		},
+		{
+			"photoName": "pic_17",
+	    	"photoAuthor": "Gabor",
+	    	"photoDate": "02.10.2019",
+	    	"photoURL": "https://raw.githubusercontent.com/mandigab/test/master/pic_5.jpg"
+		},
+		{
+			"photoName": "pic_18",
+	    	"photoAuthor": "Gabor",
+	    	"photoDate": "02.10.2019",
+	    	"photoURL": "https://raw.githubusercontent.com/mandigab/test/master/pic_6.jpg"
+		}
+	]
+}
