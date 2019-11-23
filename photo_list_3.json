@@ -1,0 +1,10 @@
+{
+	"photos": [
+		{
+			"photoName": "pic_3",
+			"photoAuthor": "Gabor",
+	    	"photoDate": "02.10.2019",
+	    	"photoURL": "https://raw.githubusercontent.com/mandigab/test/master/pic_3.jpg"
+		}
+	]
+}
