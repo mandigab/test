@@ -1,36 +1,42 @@
 {
 	"photos": [
 		{
+			"feedID": "369CD1AB-0990-433B-B2FC-9D604F006925",
 			"photoName": "pic_1",
 			"photoAuthor": "Gabor",
 	    	"photoDate": "02.10.2019",
 	    	"photoURL": "https://raw.githubusercontent.com/mandigab/test/master/pic_1.jpg"
 		},
 		{
+			"feedID": "369CD1AB-0990-433B-B2FC-9D604F006925",
 			"photoName": "pic_2",
 	    	"photoAuthor": "Gabor",
 	    	"photoDate": "02.10.2019",
 	    	"photoURL": "https://raw.githubusercontent.com/mandigab/test/master/pic_2.jpg"
 		},
 		{
+			"feedID": "369CD1AB-0990-433B-B2FC-9D604F006925",
 			"photoName": "pic_3",
 	    	"photoAuthor": "Gabor",
 	    	"photoDate": "02.10.2019",
 	    	"photoURL": "https://raw.githubusercontent.com/mandigab/test/master/pic_3.jpg"
 		},
 		{
+			"feedID": "369CD1AB-0990-433B-B2FC-9D604F006925",
 			"photoName": "pic_4",
 	    	"photoAuthor": "Gabor",
 	    	"photoDate": "02.10.2019",
 	    	"photoURL": "https://raw.githubusercontent.com/mandigab/test/master/pic_4.jpg"
 		},
 		{
+			"feedID": "369CD1AB-0990-433B-B2FC-9D604F006925",
 			"photoName": "pic_5",
 	    	"photoAuthor": "Gabor",
 	    	"photoDate": "02.10.2019",
 	    	"photoURL": "https://raw.githubusercontent.com/mandigab/test/master/pic_5.jpg"
 		},
 		{
+			"feedID": "369CD1AB-0990-433B-B2FC-9D604F006925",
 			"photoName": "pic_6",
 	    	"photoAuthor": "Gabor",
 	    	"photoDate": "02.10.2019",
